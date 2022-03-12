@@ -1,5 +1,3 @@
-Senior Salesforce Developer
-
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://cdn.pixabay.com/photo/2013/07/12/19/29/file-type-154870_960_720.png" alt="Project logo"></a>
