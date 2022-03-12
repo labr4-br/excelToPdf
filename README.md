@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://cdn.pixabay.com/photo/2013/07/12/19/29/file-type-154870_960_720.png" alt="Project logo"></a>
+ <img width=400px height=200px src="https://cdn.pixabay.com/photo/2018/09/07/17/17/excel-3661114_960_720.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">excelToPdf/html</h3>
